@@ -1,6 +1,10 @@
 # Student-Attendance-Tracker
 The goal of this repository is to create an organized Attendance Tracker to send emails if the student is not "Present" at the their classes.
 
+
+# Note: This repo contains the YAML to create it in AWS and the language of Lambda is in Go.
+
+
 With the amount of students that are enrolled in schools, it is important to create an organized product that is able to keep the status of attendance of the students that are enrolled. When I was in school, the standard was to keep the status of student attendance through a pen/paper checklist. The solution that I am implementing is creating a graphic UI that is connected to the DB that sends a notification to the email that the student is associated with. The notification will state if the student is absent from the class form that day. 
 
 
